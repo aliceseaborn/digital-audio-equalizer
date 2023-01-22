@@ -1,0 +1,59 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="2658413352" file="C:\Users\adial\Documents\SCHOOL\9 SP19\ECE 460\Project\Project 1\Equalizer.prj" location="C:\Users\adial\Documents\SCHOOL\9 SP19\ECE 460\Project\Project 1" name="Equalizer" target="target.mlapps" target-name="Package App">
+    <param.appname>Equalizer</param.appname>
+    <param.authnamewatermark>Dial Buchanan Sambulo</param.authnamewatermark>
+    <param.email>adial@mail.bradley.edu</param.email>
+    <param.company>Bradley University - ECE Department</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>An audio equalizer program to change the frequency response of audio signals. This application was created for Project 1 in ECE 460, 2019.</param.summary>
+    <param.description>An audio equalizer program to change the frequency response of audio signals. This application was created for Project 1 in ECE 460, 2019.</param.description>
+    <param.screenshot>C:\Users\adial\AppData\Local\Temp\tpc93fee89_7ea2_4811_af0e_b477cb1649b3.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>C:\Users\adial\Documents\SCHOOL\9 SP19\ECE 460\Project\Project 1</param.output>
+    <param.guid>2ce495ba-221a-4a91-9a0e-330851dd51f5</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\AppFrame.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\adial\Documents\SCHOOL\9 SP19\ECE 460\Project" name="Project 1" optional="false">C:\Users\adial\Documents\SCHOOL\9 SP19\ECE 460\Project\Project 1</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2018b</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
